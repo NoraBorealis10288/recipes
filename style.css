@@ -1,10 +1,10 @@
 .italy {
-  background: url(../img/Flag_Italy.png);
+  background: url(img/Flag_Italy.png);
   background-size: contain;
 }
 
 .usa {
-  background: url(../img/Flag_US.png);
+  background: url(img/Flag_US.png);
   background-size: cover;
 }
 
@@ -55,7 +55,7 @@ ul li {
 }
 
 .home.description {
-  background: url(../img/homepage.jpg);
+  background: url(img/homepage.jpg);
   background-size: contain;
 }
 
